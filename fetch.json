@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Julio Skyy",
+        "age": 26,
+        "email": "JulioSkyy@gmail.com"
+    },
+
+    {
+        "id": 2,
+        "name": "Anna Bella",
+        "age": 23,
+        "email": "Anna@gmail.com"
+    },
+
+    {
+        "id": 3,
+        "name": "Fedah Lee",
+        "age": 28,
+        "email": "Fedahlee@gmail.com"
+    }
+]
